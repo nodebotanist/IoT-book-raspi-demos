@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/nodebotanist/IoT-book-raspi-demos/issues"
   },
+  "dependencies": {
+    "johnny-five": "0.10.*",
+    "raspi-io": "8.0.*"
+  }
   "homepage": "https://github.com/nodebotanist/IoT-book-raspi-demos#readme"
 }
