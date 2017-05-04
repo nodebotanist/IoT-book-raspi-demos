@@ -17,8 +17,10 @@
     "url": "https://github.com/nodebotanist/IoT-book-raspi-demos/issues"
   },
   "dependencies": {
+    "ecstatic": "^2.1.0",
     "johnny-five": "0.10.*",
-    "raspi-io": "8.0.*"
-  }
+    "raspi-io": "8.0.*",
+    "router": "^1.3.0"
+  },
   "homepage": "https://github.com/nodebotanist/IoT-book-raspi-demos#readme"
 }
